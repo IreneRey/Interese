@@ -21,6 +21,7 @@ public class Interes {
      * @param capital
      * @param redito
      * @param tiempo
+     * 
      */
     public Interes(float capital, float redito, int tiempo) {        
         this.capital=capital;
