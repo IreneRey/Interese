@@ -31,7 +31,7 @@ public class Interes {
 
     /**
      *
-     * @return
+     * @return double
      * @throws Exception
      */
     public double CalcularInteres()throws Exception{
