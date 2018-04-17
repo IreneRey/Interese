@@ -1,7 +1,7 @@
 package proyecto_interes;
 
 /**
- *Cálculo de interés simple = capital * redito * tiempo/100.
+ *Cálculo de interés simple = capital * redito * tiempo/100
  * El capital y el tiempo son mayor que 0.
  * El redito puede ser negativo o cero.
  * @author Irene Rey
