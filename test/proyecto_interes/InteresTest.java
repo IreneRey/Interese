@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Casos de proba do proxecto interese
+ * Casos de proba do proxeto interes
  * @author Irene Rey
  */
 public class InteresTest {
